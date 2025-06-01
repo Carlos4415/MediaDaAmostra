@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediaDaAmostra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f067f2e0ebcddf9eda98bd6c9d8ee17dd7c5576e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b902b1048ea196af132a06dc73dd4b215997a76")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediaDaAmostra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediaDaAmostra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
